@@ -1,3 +1,3 @@
 # ShoppingList
 
-# Live link : https://tsoysal.github.io/ShopppingList
+# Live link : https://tsoysal.github.io/ShoppingList
